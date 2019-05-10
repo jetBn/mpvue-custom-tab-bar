@@ -9,7 +9,7 @@
 	},
 	"miniprogramRoot": "dist/wx/",
 	"compileType": "miniprogram",
-	"appid": "wx79e505c010f92754",
+	"appid": "",
 	"projectname": "cus-tabbar",
 	"condition": {
 		"search": {
